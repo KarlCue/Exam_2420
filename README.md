@@ -4,9 +4,9 @@
 sudo apt update | sudo apt upgrade
 
 # Part 2
-:%s/numbs/:digits:
-:%s/eco/echo
-:%s/V/C
+##:%s/numbs/:digits:
+##:%s/eco/echo
+##:%s/V/C
 
 then press a for all occurances
 
